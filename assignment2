@@ -1,0 +1,3 @@
+## Do DC automated speeding, red light and stop sign cameras actually prevent crashes?
+
+This data set comes from Open Data DC, and it tracks all reported traffic collisions in the District. This data comes from a trusted source and I personally have worked with this data set to answer different traffic-related questions in the past. It is particularly detailed, even including a map which will be helpful when locating spots where crashes happen most often. The second "data set" simply records the locations of all 312 automated cameras in the District. This will be necessary when exploring where these cameras are actually preventing crashes. 
